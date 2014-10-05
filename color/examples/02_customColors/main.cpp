@@ -1,6 +1,6 @@
 /**
   COMPILE WITH:
-  g++ -Os -std=c++0x -o 01_colors main.cpp
+  g++ -Os -std=c++0x -o 02_customColors main.cpp
   in the sfc/color/examples/02_customColors directory.
 **/
 
