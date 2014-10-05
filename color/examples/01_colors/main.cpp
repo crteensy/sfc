@@ -1,7 +1,7 @@
 /**
   COMPILE WITH:
   g++ -Os -std=c++0x -o 01_colors main.cpp
-  in the sfc/color/examples directory.
+  in the sfc/color/examples/01_colors directory.
 **/
 
 #include <iostream>
