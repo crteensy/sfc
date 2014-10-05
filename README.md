@@ -13,4 +13,4 @@ This library aims at providing a flexible framework from the canvas level down t
 Current State
 -
 
-This is a stub.
+- Currently only the color class files in /color and one example in /color/examples/01_color are included. The example demonstrates the conversion between the different color types.
